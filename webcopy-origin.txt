@@ -1,0 +1,504 @@
+Uri: https://webmail.avronica.com/
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/open_sans.min.css
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\open_sans.min.css
+Content Type: text/css
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653687663/unprotected/cpanel/style_v2_optimized.css
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653687663\unprotected\cpanel\style_v2_optimized.css
+Content Type: text/css
+
+Uri: https://webmail.avronica.com/?locale=en
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-1.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=ar
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-2.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=bg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-3.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=cs
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-4.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=da
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-5.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=de
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-6.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=el
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-7.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=es
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-8.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=es_419
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-9.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=es_es
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-10.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=fi
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-11.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=fil
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-12.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=fr
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-13.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=he
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-14.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=hu
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-15.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=i_cpanel_snowmen
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-16.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=i_en
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-17.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=id
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-18.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=it
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-19.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=ja
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-20.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=ko
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-21.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=ms
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-22.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=nb
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-23.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=nl
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-24.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=no
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-25.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=pl
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-26.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=pt
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-27.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=pt_br
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-28.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=ro
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-29.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=ru
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-30.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=sl
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-31.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=sv
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-32.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=th
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-33.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=tr
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-34.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=uk
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-35.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=vi
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-36.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=zh
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-37.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=zh_cn
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-38.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/?locale=zh_tw
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\index-39.htm
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/resetpass?start=1
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\resetpass.html
+Content Type: text/html
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/notice-error.png
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\notice-error.png
+Content Type: image/png
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/webmail-logo.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\webmail-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Bold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Bold-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Bold-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Bold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-BoldItalic-webfont.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-BoldItalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-BoldItalic-webfont.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-BoldItalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-BoldItalic-webfont.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-BoldItalic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-BoldItalic-webfont.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-BoldItalic-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-BoldItalic-webfont.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-BoldItalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBold-webfont.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-ExtraBold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBold-webfont.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-ExtraBold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBold-webfont.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-ExtraBold-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBold-webfont.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-ExtraBold-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBold-webfont.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-ExtraBold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBoldItalic-webfont.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-ExtraBoldItalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBoldItalic-webfont.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-ExtraBoldItalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBoldItalic-webfont.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-ExtraBoldItalic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBoldItalic-webfont.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-ExtraBoldItalic-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBoldItalic-webfont.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-ExtraBoldItalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Italic-webfont.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Italic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Italic-webfont.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Italic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Italic-webfont.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Italic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Italic-webfont.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Italic-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Italic-webfont.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Italic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Light-webfont.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Light-webfont.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Light-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Light-webfont.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Light-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Light-webfont.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Light-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Light-webfont.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Light-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-LightItalic-webfont.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-LightItalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-LightItalic-webfont.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-LightItalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-LightItalic-webfont.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-LightItalic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-LightItalic-webfont.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-LightItalic-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-LightItalic-webfont.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-LightItalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Regular-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Regular-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Semibold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Semibold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Semibold-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Semibold-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-Semibold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-SemiboldItalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-SemiboldItalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-SemiboldItalic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-SemiboldItalic-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1616517441\unprotected\cpanel\fonts\open_sans\OpenSans-SemiboldItalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/notice-info.png
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\notice-info.png
+Content Type: image/png
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/notice-success.png
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\notice-success.png
+Content Type: image/png
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/warning.png
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\warning.png
+Content Type: image/png
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/cp-logo_white.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\cp-logo_white.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/cp-logo.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\cp-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/or-separator-line.png
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\or-separator-line.png
+Content Type: image/png
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/icon-username.png
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\icon-username.png
+Content Type: image/png
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/icon-password.png
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\icon-password.png
+Content Type: image/png
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/icon-envelope.png
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\icon-envelope.png
+Content Type: image/png
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/icon-token.png
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\icon-token.png
+Content Type: image/png
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/login-error-close.png
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\login-error-close.png
+Content Type: image/png
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653687663/unprotected/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653687663\unprotected\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653687663/unprotected/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653687663\unprotected\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1615231936/unprotected/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1615231936\unprotected\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653687663/unprotected/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653687663\unprotected\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/favicon.ico
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://webmail.avronica.com/cPanel_magic_revision_1653685665/unprotected/cpanel/images/cpanel-logo.svg
+File Name: C:\Downloaded Web Sites\webmail.avronica.com\cPanel_magic_revision_1653685665\unprotected\cpanel\images\cpanel-logo.svg
+Content Type: image/svg+xml
+
